@@ -1,8 +1,8 @@
 {
-  "name": "@sidd-harth-1/npm-publish-demo",
+  "name": "@mukeshvr89/npm-publish-demo",
   "version": "6.7.6",
-  "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
-  "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
+  "author": "Mukesh Verma <mukesh.vr.89@gmail.com>",
+  "homepage": "https://www.linkedin.com/in/mukesh-verma-a164b2303",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
