@@ -4,6 +4,9 @@
   "author": "Mukesh Verma <mukesh.vr.89@gmail.com>",
   "homepage": "https://www.linkedin.com/in/mukesh-verma-a164b2303",
   "license": "MIT",
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com/"
+},
   "scripts": {
     "start": "node app.js",
     "test": "mocha app-test.js --timeout 10000 --reporter mocha-junit-reporter --exit",

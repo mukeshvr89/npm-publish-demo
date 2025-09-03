@@ -19,6 +19,7 @@ jobs:
           with:
             node-version: '20.x'
             registry-url: 'https://npm.pkg.github.com/' # Setup .npmrc file to publish to GitHub Packages
+            scope: '@mukeshvr89'
         
         - name: Read .npmrc file contents
           run: cat /home/runner/work/_temp/.npmrc            
